@@ -32,7 +32,7 @@ An intelligent system that leverages AI to evaluate student answers, provide det
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ai-powered-student-assessment.git
+git clone https://github.com/AbdallaNassar/ai-powered-student-assessment.git
 cd ai-powered-student-assessment
 ```
 
